@@ -4,5 +4,7 @@ Fui extensionista no Projeto Mulheres na Computação, cujo objetivo é incentiv
 
 Este material gratuito foi desenvolvido com o fito de trabalhar conceitos de Ciência da Computação durante a pandemia da COVID-19.
 
+Caso você tenha alguma sugestão e/ou queira contribuir, entre em contato pelo e-mail: iris.farias@ccc.ufcg.edu.br
+
 ![Mulheres na Computação @ UEPB (3)](https://user-images.githubusercontent.com/62727312/126038965-d5496e8b-c7e6-49f6-98b0-3acf6236783f.png)
 
