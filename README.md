@@ -5,4 +5,6 @@ Fui extensionista no Projeto Mulheres na Computação, cujo objetivo é incentiv
 Esse material foi desenvolvido com o fito de trabalhar conceitos de Ciência da Computação durante a pandemia da COVID-19.
 
 
-![Mulheres na Computação @ UEPB (2)](https://user-images.githubusercontent.com/62727312/126038643-edecdee6-95e1-41ed-a69c-754b2683d5f2.png)
+![Mulheres na Computação @ UEPB](https://user-images.githubusercontent.com/62727312/126038963-141e4e51-bce6-4db9-a506-24f129ce047e.jpg)
+![Mulheres na Computação @ UEPB (3)](https://user-images.githubusercontent.com/62727312/126038965-d5496e8b-c7e6-49f6-98b0-3acf6236783f.png)
+
