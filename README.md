@@ -6,6 +6,8 @@ Nesse sentido, elaborei um Guia Introdutório de Programação(material assíncr
 
 Este material gratuito foi desenvolvido com o fito de trabalhar conceitos de Ciência da Computação durante a pandemia da COVID-19.
 
+link para o arquivo: https://drive.google.com/drive/folders/1Y12jlqLMLw6oV6W1AUnrQMEhOi-snwkt?usp=sharing
+
 Caso queira conferir mais detalhes, link da Palestra Relâmpago que apresentei na Python Nordeste:
 https://lnkd.in/dUMiEtV
 
